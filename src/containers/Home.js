@@ -1,5 +1,5 @@
 import { connect } from 'react-redux'
-import Car from '../components/Home'
+import Home from '../components/Home'
 
 const mapStateToProps = (state) => {
     return {
